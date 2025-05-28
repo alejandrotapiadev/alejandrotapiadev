@@ -1,14 +1,8 @@
 <!--presentation-->
 <h1 align="center">
   <b>Hola, mi nombre es Alejandro Tapia 👋 </b>
-
-  <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">-->
-<!--CODE IMG-->
-</p>
-
-
-
 </h1>
+
 <!--imagen header-->
 <p align="right">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
@@ -21,7 +15,7 @@
 </p>
 
 <!--tech stack-->
-## Tech Stack
+## Tech Stack 🧰
  <p align="left">
 
   <!-- Frontend -->
@@ -50,7 +44,7 @@
 </p>
 
 <!--OS GESTION-->
-## OS & Servers
+## OS & Servers 💿
 
 <p align="left">
   <!-- Sistemas operativos -->
@@ -67,3 +61,17 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" /> &emsp;
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
+
+<!--STATS-->
+## Stats 📈
+
+<br>
+
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=radical&hide_border=false" width = 500>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=alejandrotapiadev&show_icons=true&theme=radical&include_all_commits=true" />
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrotapiadev&theme=radical)](https://github.com/tanyagupta0201/github-readme-stats)
+
+## Contact Me 📨
