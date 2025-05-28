@@ -67,7 +67,7 @@
 
 <br>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=radical&hide_border=false" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=alejandrotapiadev&theme=radical&hide_border=false" width = 500>
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=alejandrotapiadev&show_icons=true&theme=radical&include_all_commits=true" />
 <hr>
