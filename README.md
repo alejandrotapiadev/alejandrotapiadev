@@ -10,18 +10,14 @@
 
 </h1>
 <!--imagen header-->
-<!--<p align="right">
+<p align="right">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
-</p>-->
+</p>
 
 
 <!--animation text-->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack-Developer;2%20years%20of%20coding%20experience;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=35" padding-top=50px;>
-    <img align="right" alt="guy programing" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-    <br>
-    <br>
-    <br>
 </p>
 
 <!--tech stack-->
