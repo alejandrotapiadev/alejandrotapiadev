@@ -78,13 +78,9 @@
 
 <p align="left">
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/alejandro-tapia-caballero" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <!-- Email -->
-  <a href="mailto:tu.email@ejemplo.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
+[![LinkedIn: Alejandro Tapia](https://img.shields.io/badge/-Alejandro%20Tapia-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-tapia-caballero)
+&nbsp;
+[![Gmail: tapiacaballeroalejandro684@gmail.com](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:tapiacaballeroalejandro684@gmail.com)
+
 
 </p>
