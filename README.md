@@ -75,3 +75,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrotapiadev&theme=radical)](https://github.com/tanyagupta0201/github-readme-stats)
 
 ## Contact Me 📨
+
+<p align="left">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/alejandro-tapia-caballero" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <!-- Email -->
+  <a href="mailto:tu.email@ejemplo.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+
+</p>
