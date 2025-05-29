@@ -1,7 +1,7 @@
 <!--presentation-->
 <h1 align="center">
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-    <b>Hola, mi nombre es Alejandro Tapia</b>
+    <b>Hi, I'm Alejandro Tapia</b>
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 </h1>
 
@@ -39,7 +39,7 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
 
   <!-- Bases de Datos -->
-  <b>🗄 Bases de Datos</b><br>
+  <b>🛢️ Databases</b><br>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> &emsp;
   <img alt="Oracle SQL" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
 
