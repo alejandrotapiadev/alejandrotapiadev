@@ -1,7 +1,7 @@
 <!--presentation-->
 <h1 align="center">
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-    <b>Hi, I'm Alejandro Tapia</b>
+    <b>Hola, mi nombre es Alejandro Tapia</b>
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 </h1>
 
